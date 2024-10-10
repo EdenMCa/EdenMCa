@@ -1,4 +1,4 @@
-## Hola soy Eden c:👋
+## Hola, soy Eden Casarrubia c:👋
 
 <!--
 **EdenMCa/EdenMCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
