@@ -1,6 +1,6 @@
 ## Hola 👋!
 
-[9d72e47759270e4121bcfd21835638de](https://github.com/user-attachments/assets/518e675e-40c9-49cb-880f-d68531afc17c)
+(https://github.com/user-attachments/assets/518e675e-40c9-49cb-880f-d68531afc17c)
 
 
 Hola, mi nombre es Rosendo Eden Mendoza Casarrubia, y actualmente curso el quinto semestre de la carrera de Informática en la Universidad de la Sierra Juárez. A lo largo de este camino, he desarrollado habilidades en distintos lenguajes de programación y he adquirido conocimientos que he puesto en práctica en diversos proyectos.
