@@ -1,7 +1,7 @@
 ## Hola a todos 👋!
 ![master](https://github.com/user-attachments/assets/9d1100f2-7515-4fd1-bb59-c3940216b329)
 
-Hola, mi nombre es Rosendo Eden Mendoza Casarrubia, y actualmente curso el quinto semestre de la carrera de Informática en la Universidad de la Sierra Juárez. A lo largo de este camino, he desarrollado habilidades en distintos lenguajes de programación y he adquirido conocimientos que he puesto en práctica en diversos proyectos.
+Hola, mi nombre es Rosendo Eden Mendoza Casarrubia, y actualmente curso el quinto semestre de la carrera de Informática en la Universidad de la Sierra Juárez, Oaxaca. A lo largo de este camino, he desarrollado habilidades en distintos lenguajes de programación y he adquirido conocimientos que he puesto en práctica en diversos proyectos.
 
 Valoro mucho el trabajo en equipo y la colaboración en proyectos, ya que creo que las mejores soluciones surgen cuando se trabaja de manera conjunta.
 
