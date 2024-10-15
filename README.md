@@ -1,7 +1,8 @@
 ## Hola 👋!
 
 <img src="https://github.com/user-attachments/assets/ba24d3f5-8036-4436-8793-334866ee6305" alt="halo-infinite" width="1000" />
-![halo5](https://github.com/user-attachments/assets/f0e4b9a0-89bb-4395-84ba-c7d1e79e8001)
+![master-chief-4k-wallpaper-3840x2160-19522](https://github.com/user-attachments/assets/9d1100f2-7515-4fd1-bb59-c3940216b329)
+
 
 Hola, mi nombre es Rosendo Eden Mendoza Casarrubia, y actualmente curso el quinto semestre de la carrera de Informática en la Universidad de la Sierra Juárez. A lo largo de este camino, he desarrollado habilidades en distintos lenguajes de programación y he adquirido conocimientos que he puesto en práctica en diversos proyectos.
 
