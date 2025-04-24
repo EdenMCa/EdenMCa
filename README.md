@@ -2,12 +2,13 @@
 ##### <p align="center"><b><i>Estudiante de la Licenciatura en Informática de la Universidad de la Sierra Juárez</i></b></p>
 ![master](https://github.com/user-attachments/assets/9d1100f2-7515-4fd1-bb59-c3940216b329)
 
+<div style="text-align: justify;">
 Hola, mi nombre es Rosendo Eden Mendoza Casarrubia, soy originario de México y actualmente curso el sexto semestre de la carrera de Informática en la Universidad de la Sierra Juárez, Oaxaca. A lo largo de este camino, he desarrollado habilidades en distintos lenguajes de programación y he adquirido conocimientos que he puesto en práctica en diversos proyectos.
 
 Valoro mucho el trabajo en equipo y la colaboración en proyectos, ya que creo que las mejores soluciones surgen cuando se trabaja de manera conjunta.
 
 En cuanto a mis intereses personales, me apasiona el fútbol y disfruto mucho jugando videojuegos, siendo *Halo y Need for Speed* mis favoritos. Mi afición por los videojuegos no solo es un pasatiempo, también me ha motivado a explorar el desarrollo de videojuegos. Además, soy un gran seguidor de la Fórmula 1, siempre al pendiente de cada carrera.
-
+</div>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/eden.mendozacasarubia) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@edencasarrubia) 
 
