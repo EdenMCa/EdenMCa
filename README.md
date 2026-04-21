@@ -1,4 +1,3 @@
-## Hola a todos 👋!
 ##### <p align="center"><b><i>Estudiante de la Licenciatura en Informática de la Universidad de la Sierra Juárez</i></b></p>
 ![master](https://github.com/user-attachments/assets/9d1100f2-7515-4fd1-bb59-c3940216b329)
 
